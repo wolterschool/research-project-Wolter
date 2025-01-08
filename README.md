@@ -1,5 +1,5 @@
 # research-project-Wolter 04/12/2024
-this project doesn't have a name yet
+The difference in language complexity between younger and older adults
 
 Abstract: In this project i will be researching the difference in writing style between young people, within the ages of 20 - 30, and people above the age of 60. the goal is to find a meaningfull difference in the complexity in the writing style between the two groups, i will look at vocabulary, sentence structure and sentence lenght to determine a readability score. This research could be useful for researching cognitive age-related development and could help machine learning determine the age of a person based on their writing style.
 
