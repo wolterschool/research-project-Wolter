@@ -6,7 +6,7 @@ Abstract: In this project i will be researching the difference in writing style 
 relevant literature: 
 Hoskyn, M., Swanson, H.L. The relationship between working memory and writing in younger and older adults. Reading and Writing 16, 759–784 (2003). https://doi.org/10.1023/A:1027320226283
 
-James, Lori & Burke, Deborah & Austin, Ayda & Hulme, Erika. (1998). Production and Perception of “Verbosity” in Younger and Older Adults. Psychology and aging. 13. 355-67. 10.1037/0882-7974.13.3.355. 
+James, Lori & Burke, Deborah & Austin, Ayda & Hulme, Erika. (1998). Production and Perception of “Verbosity” in Younger and Older Adults. Psychology and aging. 13. 355-67. https://doi.org/10.1037/0882-7974.13.3.355. 
 
 Research question: "How does the complexity of written language vary across different age groups?"
 
